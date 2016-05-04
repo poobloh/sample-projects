@@ -8,9 +8,9 @@ Code from previous classes and personal projects
 
 ## Lab 6
 ### Language: Java
-* 
+* various programs that replicate the ArrayList and List classes
 
-## 
+## Prog3
 ### Language: Java
 * Programs that utilize java.io File functions
 * Prog3a: 2 command line inputs (inputFilename and word), opens file to search for word
