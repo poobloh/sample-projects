@@ -38,12 +38,17 @@ Language: MATLAB
 ### Prog3
 Language: Java
 * Programs that utilize java.io File functions
-* Prog3a: 2 command line inputs (inputFilename and word), opens file to search for word
-* Prog3b: 2 command line inputs (inputFilename and outputFilename), reads csv file and writes a new file with spaces replacing commas
-* Prog3c: 1 command line input (inputFilename), reads double values from file and prints as longitude/latitude pairs
+  * Prog3a: 2 command line inputs (inputFilename and word), opens file to search for word
+  * Prog3b: 2 command line inputs (inputFilename and outputFilename), reads csv file and writes a new file with spaces replacing commas
+  * Prog3c: 1 command line input (inputFilename), reads double values from file and prints as longitude/latitude pairs
 
 ### RPi Project
 Language: C
+* Utilizing the RaspberryPi GPIO connected to breadboard with push button and LED, created a program that records a combination from pushing the button (a-la morse code).
+* Once combination is recorded, LED 
+
+##### Finished Project:
+![alt text](https://raw.githubusercontent.com/poobloh/sample-projects/master/RPi%20Project/rpi.png "RPi Project")
 
 ### Tic Tac Toe A.I.
 Language: C++
