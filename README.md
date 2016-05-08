@@ -6,13 +6,13 @@ Code from previous classes and personal projects
 Language: C
 * Using [STM32F4 Discovery Board microcontroller board], final project consisted of demonstrating all embedded systems knowledge
 * Board must _**simultaneously**_:
-  * output keyboard inputs to terminal through USB on another computer
+  * read input from keyboard through Breakout module and change LED blink rate on STM board
+  * read input from hex keypad (16 buttons, pseudo-piano capable of different scales) and convert to music
+![alt text](http://www.circuitstoday.com/wp-content/uploads/2014/05/hex-keypad-arduino.png "Hex-Keypad Sample")  
+  * read input from pseudo-theremin (photocell resistor whose values raise or lower according to light on it). As hand moves closer or farther away from theremin, sound output is higher or lower dB
+  * output music notes to terminal through Sparkfun FT232R Breakout module
   * output music to speaker system
   * output sound from pseudo-theremin module
-  * take input from hex keypad (16 buttons, pseudo-piano capable of different scales) and convert to music
-![alt text](http://www.circuitstoday.com/wp-content/uploads/2014/05/hex-keypad-arduino.png "Hex-Keypad Sample")  
-  * take input from pseudo-theremin (photoresistor whose values raise or lower according to light on it). As hand moves closer or farther away from theremin, sound output is higher or lower dB
-  * 
 
 ### Lab 6
 Language: Java
