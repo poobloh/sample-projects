@@ -14,9 +14,12 @@ Language: C
   * output music to speaker system
   * output sound from pseudo-theremin module
 
+##### Finished Project (speaker not shown):
+![Project](https://raw.githubusercontent.com/poobloh/sample-projects/master/Final%20Project/IMG_20150512_012240.jpg)
+
 ### Lab 6
 Language: Java
-* various programs that replicate the ArrayList and List classes
+* various self-made programs that replicate the ArrayList and List classes
 
 ### Prog3
 Language: Java
