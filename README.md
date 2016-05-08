@@ -68,6 +68,7 @@ Language: C++
 * Unbeatable AI using minmax algorithm explained [here.](https://en.wikipedia.org/wiki/Minimax#Combinatorial_game_theory).
 * Command-line driven game with ASCII graphics 
 * Capability of playing against another player or the computer
+
 ![alt text](https://raw.githubusercontent.com/poobloh/sample-projects/master/TicTacToe/tictactoe.png "TicTacToe")
 
 ### Weather Watcher
