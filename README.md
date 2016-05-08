@@ -65,9 +65,10 @@ Language: C
 
 ### Tic Tac Toe A.I.
 Language: C++
+* Unbeatable AI using minmax algorithm explained [here.](https://en.wikipedia.org/wiki/Minimax#Combinatorial_game_theory).
 * Command-line driven game with ASCII graphics 
-* Tic Tac Toe with capability of playing against another player or the computer
-* Computer AI is unbeatable and utilizes the minmax algorithm explained [here.](https://en.wikipedia.org/wiki/Minimax#Combinatorial_game_theory).
+* Capability of playing against another player or the computer
+![alt text](https://raw.githubusercontent.com/poobloh/sample-projects/master/TicTacToe/tictactoe.png "TicTacToe")
 
 ### Weather Watcher
 Language: Java
