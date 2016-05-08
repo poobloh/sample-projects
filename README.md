@@ -1,6 +1,14 @@
 # sample-projects
-
 Code from previous classes and personal projects
+
+### ASM Project
+Language: x86 Assembly (.s)
+
+### Data Structure Projects
+Language: C++
+
+### Digital Systems Projects
+Language: C
 
 ### Embedded Systems Final Project
 Language: C
@@ -17,10 +25,13 @@ Language: C
 ##### Finished Project (speaker not shown):
 <img src="https://raw.githubusercontent.com/poobloh/sample-projects/master/Final%20Project/IMG_20150512_012240.jpg" width="500">
 
-
 ### Lab 6
 Language: Java
 * various self-made programs that replicate the ArrayList and List classes
+
+### Magic Square
+
+### Probability Project
 
 ### Prog3
 Language: Java
@@ -29,10 +40,7 @@ Language: Java
 * Prog3b: 2 command line inputs (inputFilename and outputFilename), reads csv file and writes a new file with spaces replacing commas
 * Prog3c: 1 command line input (inputFilename), reads double values from file and prints as longitude/latitude pairs
 
-### Weather Watcher
-Language: Java
-* [realtimeweb WeatherService](https://github.com/RealTimeWeb/weather/tree/master/java/src/realtimeweb), tests methods with cached .json file and prints/analyzes data in table format
-* .json file cached and pulled from 
+### RPi Project
 
 ### Tic Tac Toe A.I.
 Language: C++
@@ -40,4 +48,7 @@ Language: C++
 * Tic Tac Toe with capability of playing against another player or the computer
 * Computer AI is unbeatable and utilizes the minmax algorithm explained [here](https://en.wikipedia.org/wiki/Minimax#Combinatorial_game_theory).
 
-
+### Weather Watcher
+Language: Java
+* [realtimeweb WeatherService](https://github.com/RealTimeWeb/weather/tree/master/java/src/realtimeweb), tests methods with cached .json file and prints/analyzes data in table format
+* .json file cached and pulled from 
