@@ -30,8 +30,10 @@ Language: Java
 * various self-made programs that replicate the ArrayList and List classes
 
 ### Magic Square
+Language: C 
 
 ### Probability Project
+Language: MATLAB
 
 ### Prog3
 Language: Java
@@ -41,6 +43,7 @@ Language: Java
 * Prog3c: 1 command line input (inputFilename), reads double values from file and prints as longitude/latitude pairs
 
 ### RPi Project
+Language: C
 
 ### Tic Tac Toe A.I.
 Language: C++
