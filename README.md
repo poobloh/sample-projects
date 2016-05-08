@@ -15,7 +15,8 @@ Language: C
   * output sound from pseudo-theremin module
 
 ##### Finished Project (speaker not shown):
-![Project](https://raw.githubusercontent.com/poobloh/sample-projects/master/Final%20Project/IMG_20150512_012240.jpg)
+<img src="https://raw.githubusercontent.com/poobloh/sample-projects/master/Final%20Project/IMG_20150512_012240.jpg" width="500">
+
 
 ### Lab 6
 Language: Java
