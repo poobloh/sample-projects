@@ -65,7 +65,7 @@ Language: C
 
 ### Tic Tac Toe A.I.
 Language: C++
-* Unbeatable AI using minmax algorithm explained [here.](https://en.wikipedia.org/wiki/Minimax#Combinatorial_game_theory).
+* Unbeatable AI using minmax algorithm explained [here.](https://en.wikipedia.org/wiki/Minimax#Combinatorial_game_theory)
 * Command-line driven game with ASCII graphics 
 * Capability of playing against another player or the computer
 
